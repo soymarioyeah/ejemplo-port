@@ -1,2 +1,2 @@
 # ejemplo-port
-propuesta de reader para cliente
+propuesta de Header para cliente
